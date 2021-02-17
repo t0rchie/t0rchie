@@ -10,7 +10,7 @@
 <br />
 <br />
 
-[![Discord]https://cdn.discordapp.com/attachments/811604862181048370/811614337281163304/unknown.png)](https://discord.gg/qSj96Dxn)
+[![Discord](https://cdn.discordapp.com/attachments/811604862181048370/811614337281163304/unknown.png)](https://discord.gg/qSj96Dxn)
 
 <br />
 
