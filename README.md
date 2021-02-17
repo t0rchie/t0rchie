@@ -10,13 +10,13 @@
 <br />
 <br />
 
-[![Discord](https://cdn.discordapp.com/attachments/584539247940337741/754709132065374358/396aa24416f133e53f97ba9d9daa717a.png)](https://discord.gg/AuHpB3A)
+[![Discord]https://cdn.discordapp.com/attachments/811604862181048370/811614337281163304/unknown.png)](https://discord.gg/qSj96Dxn)
 
 <br />
 
 ----
 
 [twitter]: https://twitter.com/AstraWrld
-[twitch]: https://twitch.tv/BugsAstra
+[twitch]: https://twitch.tv/SpookyAstra
 [youtube]: https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Q?view_as=subscriber
-[discord]: https://discord.gg/AuHpB3A
+[discord]: https://discord.gg/qSj96Dxn
