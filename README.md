@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Astra!](https://github.com/AstraWrld/)
 
-<img align="right" height="60" width="60" alt="" src="https://hyperz.dev/images/logo.png" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/579055386406027286/814633737802219580/Infinity_2.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/AYSSF4Uuv9)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102)
