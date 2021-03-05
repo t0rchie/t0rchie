@@ -19,7 +19,6 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 
 ### Some Highlights:
 
-- 📌 &nbsp; [Discord Server Filter](https://github.com/AstraWrld/server-filter)
 - 🚀 &nbsp; [Discord Listing Bot](https://github.com/AstraWrld/listing-bot)
 - 🏫 &nbsp; [Discord Assistant Bot](https://github.com/AstraWrld/assistant-bot)
 
