@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AstraWrld)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/AstraWrld)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=blue&style=plastic)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=AstraWRLD&label=Views&color=blue&style=plastic)
 
 I'm a Highschool student planning to pursue Software Development. I love what I do and love to upload free shit! I do have some paid products just so I can earn something out of this hobby!
 
@@ -32,9 +32,9 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/AstraWRLD">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AstraWRLD&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AstraWRLD&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
