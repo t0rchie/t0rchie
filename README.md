@@ -11,9 +11,6 @@
 
 I'm a Highschool student planning to pursue Software Development. I love what I do and love to upload free shit! I do have some paid products just so I can earn something out of this hobby!
 
-
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
-
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 
