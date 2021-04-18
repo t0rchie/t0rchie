@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AstraWrld)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/AstraWrld)
-[![Websute Badge](https://img.shields.io/badge/-Website-ffffff?style=flat-square&logo=Github&logoColor=black)](https://astradev.wtf)
+[![Websute Badge](https://img.shields.io/badge/-Website-ffffff?style=flat-square&logo=Website&logoColor=black)](https://astradev.wtf)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=AstraWRLD&label=Views&color=blue&style=plastic)
 
