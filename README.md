@@ -23,6 +23,7 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -40,8 +41,8 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 
-- Browser: Edge
+- OS: Windows 11 
+- Browser: Brave
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [YouTube](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102), [Discord](https://discord.gg/AYSSF4Uuv9), and [Twitter](https://twitter.com/AstraWrld)
 
