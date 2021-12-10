@@ -17,7 +17,7 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 
 ### Some Highlights:
 
-- 🚀 &nbsp; [Discord Listing Bot](https://github.com/AstraWrld/listing-bot)
+- 🚀 &nbsp; [GSR Script](https://github.com/AstraWrld/gsr-test)
 
 
 ### Languages and Tools:
