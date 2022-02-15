@@ -14,12 +14,6 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
-
-### Some Highlights:
-
-- 🚀 &nbsp; [GSR Script](https://github.com/AstraWrld/gsr-test)
-
-
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -41,10 +35,10 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 11 
+- OS: Windows 10
 - Browser: Brave
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102), [Discord](https://discord.gg/AYSSF4Uuv9), and [Twitter](https://twitter.com/AstraWrld)
+- Stay Updated: [YouTube](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102), [Discord](https://discord.gg/EqEcKzNkDB), and [Twitter](https://twitter.com/AstraWrld)
 
 ---
 
