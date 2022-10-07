@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Scentral!](https://github.com/scentral/)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/579055386406027286/814633737802219580/Infinity_2.png" />
+<img align="right" height="60" width="60" alt="" src="[https://cdn.discordapp.com/attachments/579055386406027286/814633737802219580/Infinity_2.png (https://cdn.discordapp.com/attachments/925891005834743830/1027741404971155497/1301ee85c63f748c0e213bead815372557.png)" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/AYSSF4Uuv9)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102)
