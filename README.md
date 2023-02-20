@@ -38,7 +38,7 @@ I'm a Highschool student planning to pursue Software Development. I love what I 
 - OS: Windows 11
 - Browser: Brave
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102), [Discord](https://discord.gg/DUVx2wHTV8), and [Twitter](https://twitter.com/OfficerScentral)
+- Stay Updated: [YouTube](https://www.youtube.com/@OfficerScentral), [Discord](https://discord.gg/DUVx2wHTV8), and [Twitter](https://twitter.com/NotScentral)
 
 ---
 
