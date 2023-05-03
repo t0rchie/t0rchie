@@ -2,15 +2,13 @@
 
 <img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/925891005834743830/1027741404971155497/1301ee85c63f748c0e213bead815372557.png"/>
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/AYSSF4Uuv9)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCbGUYKYfiGaLnur9KwELR9Qpbjreload=102)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Scentral)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/Scentral)
-[![Websute Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=Website&logoColor=black)](https://astradev.wtf)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@OfficerScentral)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notscentral)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/scentral)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Scentral&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue Software Development. I love what I do and love to upload free shit! I do have some paid products just so I can earn something out of this hobby!
+I'm a Highschool student planning to pursue Software Development.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
