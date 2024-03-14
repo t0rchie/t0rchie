@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Scentral 👋</a></h1>
+<h1 align="center"><a href="https://scentral.wtf">Hi, I'm Scentral 👋</a></h1>
 
 <p align="center">
   <a href="https://github.com/scentral">
