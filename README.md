@@ -1,20 +1,21 @@
 ## Hey 👋, I'm [Scentral!](https://github.com/scentral/)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/925891005834743830/1027741404971155497/1301ee85c63f748c0e213bead815372557.png"/>
+<img align="right" height="60" width="60" alt="" src="https://avatars.githubusercontent.com/u/60952407?v=4"/>
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@OfficerScentral)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/notscentral)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@notscentral)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/notscentral)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/scentral)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Scentral&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue Software Development.
+I'm currently a Highschool student and I plan on starting my computer science degree in the fall of 2024
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=javascript)&nbsp;
 ![LUA](https://img.shields.io/badge/-LUA-333333?style=flat&logo=lua)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
