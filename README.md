@@ -1,23 +1,17 @@
-<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Peter 👋</a></h1>
+<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Scentral 👋</a></h1>
 
 <p align="center">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/scentral">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/peterthehan">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-  <a href="https://www.npmjs.com/~peterthehan">
+  <a href="https://www.npmjs.com/~scentral">
     <img alt="npm" title="npm" height="48" width="48" src="https://cdn.simpleicons.org/npm"></a>
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="https://discord.gg/">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://www.threads.net/@peterthehan">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threads/white">
-      <img alt="Threads" title="Threads" height="48" width="48" src="https://cdn.simpleicons.org/threads"></picture></a>
-  <a href="https://youtube.com/@peterthehan">
+  <a href="https://youtube.com/@notscentral">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
 </p>
